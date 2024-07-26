@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Everyone🤝<br>I'm Ahmed Hassan, 4th year Biomedical Engineering student at Cairo University interested in Machine learning, web development, and Software Engineering
+Hey Everyone🤝<br>I'm Ahmed Hassan, a fresh graduate from Biomedical Engineering at Cairo University interested in AI, Software Engineering and Web development.
 
 
 ## 🌐 Socials:
