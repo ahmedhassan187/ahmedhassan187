@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Everyone🤝<br>I'm Ahmed Hassan, a fresh graduate from Biomedical Engineering at Cairo University interested in AI, Software Engineering and Web development.
+Hey Everyone🤝<br>I'm Ahmed Aly, a Master student at **the University of Pisa (UNIPI)** studying **Biotechnologies and AI in healthcare**. I'm interested in AI, Software Engineering, and Web development.
 
 
 ## 🌐 Socials:
